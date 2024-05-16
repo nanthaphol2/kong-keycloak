@@ -1,8 +1,8 @@
-# Kong / Keycloak
+# Kong / Keycloak Only support kong 2.x.x 
 
 ## Credits
 
-[Securing APIs with Kong and Keycloak - Part 1](https://www.jerney.io/secure-apis-kong-keycloak-1/) by Joshua A Erney
+[Securing APIs with Kong and Keycloak - Part 1](https://www.jerney.io/secure-apis-kong-keycloak-1/) by Joshua A Erney and 
 [Example Thank you very much](https://github.com/d4rkstar/kong-konga-keycloak)
 
 ## Installed versions
